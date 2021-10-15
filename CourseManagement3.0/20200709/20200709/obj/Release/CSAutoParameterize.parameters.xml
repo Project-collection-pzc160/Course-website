@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="sqlcon-Web.config Connection String" description="sqlcon 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data source=peacelove.chinaeast.cloudapp.chinacloudapi.cn;database=CourseManagement;user id=sa;password=010418Pzc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\24274\\source\\repos\\peace-love\\CourseManagement1\.0\\20200709\\20200709\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlcon']/@connectionString" />
+  </parameter>
+</parameters>
