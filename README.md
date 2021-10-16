@@ -18,4 +18,11 @@
   部署服务器并将项目发布，sql数据库搭载在服务器上，通过配置连接访问。
 
 - 服务器已过期，实际运行效果可以见/产品发布PPT/peace&love-最终产品发布.pptx
+- 部分展示：
+- 网站界面：
+- ![image](https://user-images.githubusercontent.com/66511605/137569797-042d1d3b-2455-4a78-b95c-efff46b97e46.png)
+- 学生上方功能栏：
+- ![image](https://user-images.githubusercontent.com/66511605/137569793-e8d0dc7c-cce5-436e-a475-d36ff2157120.png)
+- 管理员上方功能栏：
+- ![image](https://user-images.githubusercontent.com/66511605/137569786-9d8824df-8819-4139-932c-38848d962960.png)
 
